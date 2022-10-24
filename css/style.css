@@ -171,7 +171,7 @@ ul{
     display: flex;
     align-items: center;
     height: 550px;
-    background-color: aqua;
+    background-color: rgb(76, 198, 198);
     width: 20%;
     border-style: dashed;
     border-color: white;
@@ -180,5 +180,45 @@ ul{
 /* fine menu */
 
 /* struttura footer */
+
+footer{
+    background-color: black;
+}
+
+.container-footer{
+    height: 75px;
+    width: 75%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.row-footer{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.col-logo-footer{
+    display: flex;
+    align-items:center;
+    height: 50px;
+    background-color: aqua;
+    width: 50%;
+}
+
+.col-button-footer{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 50px;
+    background-color: aqua;
+    width: 50%;
+}
+
+span{
+    background-color: pink;
+    border-style: dashed;
+    padding: 3px 3px 3px 2px;
+}
 
 /* fine footer */
