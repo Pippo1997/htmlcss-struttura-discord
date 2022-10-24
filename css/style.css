@@ -68,7 +68,7 @@ ul{
 
 /* fine header */
 
-/* struttura section */
+/* struttura titolo */
 
 .container-title{
     background-color: blue;
@@ -88,7 +88,7 @@ ul{
     height: 325px;
     border-style: dashed
 }
-/* fine section */
+/* fine titolo */
 
 /* struttura main */
 
@@ -145,7 +145,40 @@ ul{
 
 /* fine main */
 
-/* struttura footer */
+/* struttura menu */
+.container-menu{
+    background-color: black;
+}
 
+.row-menu{
+    display: flex;
+    align-items: center;
+    width: 75%;
+    height: 600px;
+    margin: 0 auto;
+}
+
+.col-social{
+    display: flex;
+    align-items: center;
+    height: 550px;
+    background-color: palevioletred;
+    width: 40%;
+    border-style: dashed
+}
+
+.col-menu{
+    display: flex;
+    align-items: center;
+    height: 550px;
+    background-color: aqua;
+    width: 20%;
+    border-style: dashed;
+    border-color: white;
+}
+
+/* fine menu */
+
+/* struttura footer */
 
 /* fine footer */
