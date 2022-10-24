@@ -92,8 +92,8 @@ ul{
 
 /* struttura main */
 
-.container-main{
-    background-color: white;
+.container-main-center{
+    background-color: lightgray;
 }
 
 .row-main{
@@ -121,9 +121,5 @@ ul{
     width: 40%;
     border-style: dashed
 }
-
-
-
-
 
 /* fine main */
