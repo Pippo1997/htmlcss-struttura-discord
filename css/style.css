@@ -122,4 +122,30 @@ ul{
     border-style: dashed
 }
 
+.container-boxgreen{
+    background-color: lightgray;
+}
+
+.row-boxgreen{
+    display: flex;
+    align-items: center;
+    width: 75%;
+    height: 700px;
+    margin: 0 auto;
+}
+
+.col-boxgreen{
+    display: flex;
+    align-items: center;
+    height: 600px;
+    background-color: green;
+    width: 100%;
+    border-style: dashed
+}
+
 /* fine main */
+
+/* struttura footer */
+
+
+/* fine footer */
