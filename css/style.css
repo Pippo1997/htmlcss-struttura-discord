@@ -8,7 +8,6 @@
 
 header{
     background-color: lightblue;
-    height: 500px;
 }
 
 .container-header{
@@ -92,7 +91,7 @@ ul{
 
 /* struttura main */
 
-.container-main-center{
+.container-grey{
     background-color: lightgray;
 }
 
@@ -120,10 +119,6 @@ ul{
     background-color: pink;
     width: 40%;
     border-style: dashed
-}
-
-.container-boxgreen{
-    background-color: lightgray;
 }
 
 .row-boxgreen{
@@ -171,7 +166,7 @@ ul{
     display: flex;
     align-items: center;
     height: 550px;
-    background-color: rgb(76, 198, 198);
+    background-color: cyan;
     width: 20%;
     border-style: dashed;
     border-color: white;
@@ -218,7 +213,7 @@ footer{
 span{
     background-color: pink;
     border-style: dashed;
-    padding: 3px 3px 3px 2px;
+    padding: 3px 3px 3px 3px;
 }
 
 /* fine footer */
